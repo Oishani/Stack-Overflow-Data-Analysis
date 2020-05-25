@@ -1,0 +1,19 @@
+INFO 2950 Dataset Exploration
+
+Names/netids: Oishani Ganguly, og58
+
+Link to GitHub repository: https://github.coecis.cornell.edu/og58/INFO2950-Project
+
+DATASET Idea 1: Scraping YouTube for data such as number of views, likes, dislikes, comments, and so on using YouTube Data API v3 found at https://developers.google.com/youtube/v3
+
+  Details: To use the YouTube Data API, an API key is needed which can be obtained in the Google APIs Console. 
+  A new project needs to be created, and the YouTube Data API needs to be enabled for the project. 
+  To simplify things, It is possible to use the Google API python client which is a python client to interact with the Google APIs in an easier way.
+
+DATASET Idea 2: Dataset of a survey conducted by Stack Overflow in 2019 to document trends in the developer community
+
+  Details: The full CSV file can be found at https://insights.stackoverflow.com/survey
+
+DATASET Idea 3: Scraping IMDb for details pertaining to the analysis 
+
+  Details: Scraping will be carried out using the process described at https://github.com/hxchua/datadoubleconfirm/blob/master/notebooks/imdb.ipynb
